@@ -1,6 +1,3 @@
-Certainly! Here's a `README.md` template for your GitHub profile:
-
----
 
 # Hi there! 👋 I'm Fasiha
 
