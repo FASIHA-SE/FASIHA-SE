@@ -8,6 +8,9 @@ Welcome to my GitHub profile! 🌟 I'm on a journey to master all programming la
 - **JavaScript** 🌐
 - **SQL** 🗃️
 - **HTML/CSS** 🎨
+- **PYTHON**
+- **DSA**
+- **AI**
 
 
 ### Projects:
